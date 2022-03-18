@@ -1,0 +1,6 @@
+127.0.0.1 - - [11/Mar/2022:10:47:45 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 500 23160 http-bio-8081-exec-1 239
+127.0.0.1 - - [11/Mar/2022:11:06:47 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 500 23160 http-bio-8081-exec-1 194
+127.0.0.1 - - [11/Mar/2022:11:08:06 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 500 23160 http-bio-8081-exec-1 199
+127.0.0.1 - - [11/Mar/2022:11:11:07 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 500 23160 http-bio-8081-exec-1 202
+127.0.0.1 - - [11/Mar/2022:11:13:57 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 500 11463 http-bio-8081-exec-1 291
+127.0.0.1 - - [11/Mar/2022:11:19:27 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 500 23160 http-bio-8081-exec-1 200
